@@ -1,0 +1,14 @@
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.AssemblyInfoInputs.cache
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.AssemblyInfo.cs
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.csproj.CoreCompileInputs.cache
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\bin\Debug\net8.0\PR_04.exe
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\bin\Debug\net8.0\PR_04.deps.json
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\bin\Debug\net8.0\PR_04.runtimeconfig.json
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\bin\Debug\net8.0\PR_04.dll
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\bin\Debug\net8.0\PR_04.pdb
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.dll
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\refint\PR_04.dll
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.pdb
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\PR_04.genruntimeconfig.cache
+C:\CLG-WORK\sem-5\DotNet_practical\PR_04\PR_04\obj\Debug\net8.0\ref\PR_04.dll
