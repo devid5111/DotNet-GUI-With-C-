@@ -1,53 +1,83 @@
-# C# Console Applications (Practical Programs)
+# GUI Programming Using C# .NET - Practical Programs
 
-This repository contains C# Console Application programs developed using .NET. These practical programs are based on the BCA Semester-5 GUI Programming Using C# .NET syllabus and demonstrate fundamental programming concepts such as input/output, conditional statements, loops, strings, classes, objects, and object-oriented programming.
-
-## Practical List
-
-### Practical 1 – User Information
-**Description:**
-Develop a console application that prompts the user to enter various values like Name, Age, and City. Once the user inputs the data, display it back on the console.
-
-**Concepts Used:**
-- Console Input/Output
-- Variables
-- String
-- Integer
+This repository contains all practical programs for **GUI Programming Using C# .NET (BCA Semester 5)** developed using **Visual Studio**, **C#**, **Windows Forms**, and **SQL Server**.
 
 ---
 
-### Practical 2 – Number to Words
-**Description:**
-Write a program that takes a number between 0 and 999 from the user and converts it into words. For example, if the user enters 98, the program should output "Ninety-Eight". The program should also handle special cases like zero and exact hundreds.
+# Practical Categories
 
-**Concepts Used:**
-- Conditional Statements
-- Arrays
-- Switch Statement
-- String Manipulation
+## Practical 1 - 10 : Console Application Programs
 
----
+These practicals focus on the fundamentals of C# programming.
 
-### Practical 3 – Count Substring Occurrences
-**Description:**
-Develop a console application that accepts a main string and a substring from the user. The program counts how many times the substring appears within the main string and displays the total number of occurrences.
-
-**Concepts Used:**
-- String
-- Loops
-- Conditional Statements
-- String Comparison
-- Counter Variable
+- Practical 1 - User Input and Output
+- Practical 2 - Number to Words Conversion
+- Practical 3 - Count Substring Occurrences
+- Practical 4 - Class and Object
+- Practical 5 - Constructor & Method Overloading
+- Practical 6 - Inheritance & Method Overriding
+- Practical 7 - String Manipulation Functions
+- Practical 8 - Exception Handling
+- Practical 9 - Delegates & Multicasting
+- Practical 10 - Jagged Array
 
 ---
 
-### Practical 4 – Person Class
-**Description:**
-Define a class named `Person` with properties such as Name and Age, along with a method `ShowDetails()`. Create one or more objects of the Person class, assign values to their properties, and call the method to display each person's details.
+## Practical 11 - 32 : Windows Forms Applications
 
-**Concepts Used:**
-- Class
-- Object
-- Properties
-- Methods
-- Object-Oriented Programming (OOP)
+These practicals focus on Windows Forms controls and desktop application development.
+
+- Practical 11 - Registration Form
+- Practical 12 - Text Alignment using Buttons
+- Practical 13 - Login Form Validation
+- Practical 14 - GroupBox and Button Actions
+- Practical 15 - ComboBox Selection
+- Practical 16 - Calculator Application
+- Practical 17 - CheckBox and ListBox
+- Practical 18 - Odd and Even Number Separation
+- Practical 19 - String Analyzer & Palindrome Checker
+- Practical 20 - To-Do List Application
+- Practical 21 - RadioButton Selection
+- Practical 22 - DateTimePicker
+- Practical 23 - MonthCalendar Date Difference
+- Practical 24 - Shape Drawing using RadioButton
+- Practical 25 - ColorDialog
+- Practical 26 - ImageList with TabControl
+- Practical 27 - TrackBar and ProgressBar
+- Practical 28 - Stopwatch using Timer
+- Practical 29 - SplitContainer, TreeView & ListView
+- Practical 30 - ContextMenuStrip with ListBox
+- Practical 31 - MDI Image Viewer
+- Practical 32 - Simple Text Editor
+
+---
+
+## Practical 33 - 38 : Database & Crystal Report Applications
+
+These practicals focus on ADO.NET, SQL Server, MS Access, and Crystal Reports.
+
+- Practical 33 - SQL Server CRUD Operations (EMP Table)
+- Practical 34 - MS Access CRUD Operations (REGISTRATION Table)
+- Practical 35 - Search Records using DataGridView
+- Practical 36 - Database Login Authentication
+- Practical 37 - Crystal Report using SQL Server
+- Practical 38 - Crystal Report with Filtering
+
+---
+
+## Technologies Used
+
+- C#
+- .NET
+- Windows Forms
+- ADO.NET
+- SQL Server (LocalDB)
+- MS Access
+- Crystal Reports
+- Visual Studio
+
+---
+
+## Author
+
+**Devid Parmar**
