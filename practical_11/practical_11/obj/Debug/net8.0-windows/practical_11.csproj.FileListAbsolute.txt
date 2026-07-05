@@ -1,0 +1,16 @@
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\bin\Debug\net8.0-windows\practical_11.exe
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\bin\Debug\net8.0-windows\practical_11.deps.json
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\bin\Debug\net8.0-windows\practical_11.runtimeconfig.json
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\bin\Debug\net8.0-windows\practical_11.dll
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\bin\Debug\net8.0-windows\practical_11.pdb
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.frmRegister.resources
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.csproj.GenerateResource.cache
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.AssemblyInfoInputs.cache
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.AssemblyInfo.cs
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.csproj.CoreCompileInputs.cache
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.dll
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\refint\practical_11.dll
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.pdb
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\practical_11.genruntimeconfig.cache
+C:\CLG-WORK\sem-5\DotNet_practical\practical_11\practical_11\obj\Debug\net8.0-windows\ref\practical_11.dll
